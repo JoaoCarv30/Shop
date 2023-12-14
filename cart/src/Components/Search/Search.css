@@ -1,0 +1,45 @@
+
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.search__container{
+    display: flex;
+    background-color: white;
+    width: 100%;
+    max-width: 500px;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #a6a6a6;
+
+
+}
+
+input{
+    padding: 13px;
+    flex-grow: 1;
+    border: none;
+    outline: none;
+    font-size: .8rem;
+    font-weight: 500px;
+    border-right: 1px solid #dadce1;
+   
+}
+
+button{
+    border: none;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: black;
+    padding: 0 1rem;
+    cursor: pointer;
+    
+
+}
+

@@ -1,0 +1,19 @@
+
+
+header{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    background-color: #7FB7BE;
+    color: #dadce1;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+form {
+    display: flex;
+    align-items: center;
+}
